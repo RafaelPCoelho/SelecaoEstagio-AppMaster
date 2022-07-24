@@ -1,0 +1,20 @@
+{
+  "name": "selecaoestagio-appmaster",
+  "version": "1.0.0",
+  "description": "Exame de Seleção AppMaster",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./app.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
